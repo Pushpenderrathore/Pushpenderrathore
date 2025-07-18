@@ -34,7 +34,12 @@
 <a href="mailto:bluedevil5177@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Pushpenderrathore/Pushpenderrathore/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a> <a href="https://api.whatsapp.com/send?phone=+917300301634" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
 </p>
 
+
 ---
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Pushpenderrathore/Pushpenderrathore&type=Date)](https://star-history.com/#Pushpenderrathore/Pushpenderrathore&Date)
+
+
 [![](https://visitcount.itsvg.in/api?id=Pushpenderrathore&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Profile Views counting of visitors to this page in this section started from June 12, 2020 
