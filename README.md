@@ -1,5 +1,6 @@
 # 💫 About Me:
 Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive security leader. <br><br>My GitHub usually contains useful projects for offensive security practitioners!
+<i>Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive security leader. <br><br>My GitHub usually contains useful projects for offensive security practitioners.</i> 
 
 <h3 align="left">Hackthebox Profile</h3> 
 <p align="left">
