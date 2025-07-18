@@ -12,10 +12,6 @@ Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive sec
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pushpenderrathore&theme=prussian&hide_border=true)<br/> 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpenderrathore&theme=prussian&hide_border=true&layout=compact&langs_count=8)
 
-![](https://github-readme-stats.vercel.app/api?username=jhaddix&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jhaddix&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaddix&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jhaddix&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
