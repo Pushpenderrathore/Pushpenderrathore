@@ -8,6 +8,18 @@ Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive sec
    </a>
  </p> 
 
+<h3 align="center">WeChall Profile</h3>
+<p align="center">
+   <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
+     <img src="https://www.wechall.net/dbimg/avatar/68814?v=1" alt="WeChall Avatar" width="80"/>
+   </a> 
+</p> 
+<p align="center">
+   <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
+     <b>anonymous on WeChall</b>
+   </a> 
+</p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/28NAVxFE) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jhaddix) 
 
