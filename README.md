@@ -25,6 +25,6 @@ Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive sec
 [![](https://visitcount.itsvg.in/api?id=Pushpenderrathore&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Profile Views counting of visitors to this page in this section started from June 12, 2022 
-![](https://count.getloli.com/get/@BEPb.github.readme) </br>
+![](https://count.getloli.com/get/@Pushpenderrathore.github.readme) </br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
