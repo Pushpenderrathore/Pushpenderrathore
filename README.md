@@ -6,19 +6,7 @@ Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive sec
    <a href="https://app.hackthebox.com/profile/overview" target="_blank">
      <img src="https://account.hackthebox.com/images/logos/logo-htb-account.svg" alt="Hackthebox" width="150"/>
    </a>
- </p> 
-
-<h3 align="center">WeChall Profile</h3>
-<p align="center">
-   <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
-     <img src="/Pushpenderrathore/images/download.jpeg" alt="WeChall Avatar" width="80"/>
-   </a> 
-</p> 
-<p align="center">
-   <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
-     <b>anonymous on WeChall</b>
-   </a> 
-</p>
+ </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/28NAVxFE) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jhaddix) 
