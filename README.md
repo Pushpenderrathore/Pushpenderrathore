@@ -1,18 +1,6 @@
 # 💫 About Me:
 Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive security leader. <br><br>My GitHub usually contains useful projects for offensive security practitioners!
 
-<h3 align="center">HackTheBoxProfile</h3> 
- <p align="center">
-   <a href="https://app.hackthebox.com/user/R4jpu1/" target="_blank">
-     <img src="https://app.hackthebox.com/images/HTB-favicon/apple-touch-icon.png" alt="Hack The Box Rank Badge"/>
-   </a>
- </p>
-
- <p align="center">
-   <b><a href="https://app.hackthebox.com/user/R4jpu1" target="_blank" style="color: #9FEF00; text-decoration: none;">R4jpu1 on HackTheBox</a></b>
- </p> 
-
-
 <h3 align="center">Hackthebox Profile</h3> 
 <p align="center">
    <a href="https://app.hackthebox.com/profile/overview" target="_blank">
