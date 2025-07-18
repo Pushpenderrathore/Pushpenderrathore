@@ -19,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Pushpender+rathore;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Cyber+Security+Enthusiast+;Anonymous+community+member)](https://git.io/typing-svg)
 
 
-<a href="https://app.hackthebox.com/profile/overview"><img src="https://account.hackthebox.com/storage/users/adf37d18-62c3-46fa-bc34-b1e55ebe0014-avatar.png" alt="Hackthebox"></a>
+<a href="https://app.hackthebox.com/profile/overview"><img src="https://www.wechall.net/dbimg/avatar/68814?v=1" alt="Hackthebox"></a>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
 
