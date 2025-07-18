@@ -4,7 +4,7 @@ Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive sec
 <h3 align="center">🧠 WeChall Profile Avatar</h3> 
 <p align="center">
    <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
-     <img src="https://www.wechall.net/about_wechall" alt="WeChall Avatar" width="150"/>
+     <img src="https://www.wechall.net/dbimg/logo/91?1" alt="WeChall Avatar" width="150"/>
    </a>
  </p> 
 
