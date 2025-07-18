@@ -15,11 +15,11 @@ Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive sec
  </p>
 
  <p align="center">
-   <b><a href="https://app.hackthebox.com/user/68814" target="_blank" style="color: #9FEF00; text-decoration: none;">PushpenderS376 on HackTheBox</a></b>
+   <b><a href="https://app.hackthebox.com/R4jpu1" target="_blank" style="color: #9FEF00; text-decoration: none;">R4jpu1 on HackTheBox</a></b>
  </p> 
 
 
-<h3 align="center">🧠 Hackthebox Profile </h3> 
+<h3 align="center">Hackthebox Profile</h3> 
 <p align="center">
    <a href="https://app.hackthebox.com/profile/overview" target="_blank">
      <img src="https://account.hackthebox.com/images/logos/logo-htb-account.svg" alt="Hackthebox" width="150"/>
