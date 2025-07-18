@@ -9,13 +9,13 @@ Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive sec
  </p>
 
  <p align="center">
-   <a href="https://app.hackthebox.com/R4jpu1/" target="_blank">
-     <img src="https://www.hackthebox.com/badge/image/68814" alt="Hack The Box Rank Badge"/>
+   <a href="https://app.hackthebox.com/user/R4jpu1/" target="_blank">
+     <img src="https://www.hackthebox.com/badge/image/R4jpu1" alt="Hack The Box Rank Badge"/>
    </a>
  </p>
 
  <p align="center">
-   <b><a href="https://app.hackthebox.com/R4jpu1" target="_blank" style="color: #9FEF00; text-decoration: none;">R4jpu1 on HackTheBox</a></b>
+   <b><a href="https://app.hackthebox.com/user/R4jpu1" target="_blank" style="color: #9FEF00; text-decoration: none;">R4jpu1 on HackTheBox</a></b>
  </p> 
 
 
