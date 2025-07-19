@@ -1,19 +1,16 @@
-# 💫 About Me:
-<i><i>Welcome! <br>I'm Pushpender Singh Rathore, a red teamer, Hacker, and offensive security leader. <br>My GitHub usually contains useful projects for offensive security practitioners.</i></i> 
-
 # 💫 About Me: 
 
 <i> 
-Welcome! <br> 
-I'm <b>Pushpender Singh Rathore</b> — a passionate Red Teamer, ethical hacker, and offensive security enthusiast. <br><br> 
+Greetings and Welcome to my profile. <br><br> 
+I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional with a deep focus on <b>ethical hacking</b> and <b>offensive security research</b>.<br><br> 
 
-🎓 I'm currently pursuing my B.Tech in Computer Science & Engineering. <br> 
-💻 I specialize in cybersecurity, reverse engineering, and exploit development. <br> 
-🛠️ My expertise includes C, C++, Python, Assembly, and low-level system manipulation. <br> 
-⚔️ I actively participate in platforms like <b>HackTheBox</b>, <b>TryHackMe</b>, and <b>WeChall</b> to sharpen my offensive skills. <br> 
-📁 I build and maintain tools for red teaming, penetration testing, and malware analysis. <br><br> 
+🎓 I'm currently pursuing my B.Tech in Computer Science & Engineering, I have a strong foundation in computer systems, low-level programming, and exploit development.<br> 
+💻 I specialize in cybersecurity, reverse engineering, adversary simulation, vulnerability assessment and exploit development. <br> 
+🛠️ My expertise includes C, C++, Python, Assembly, and low-level system manipulation, also familiar with tools and frameworks like <b>Burpe Suite, Metasploit, Nmap, WireShark, Gdb, BinaryNinja and Ghidra</b>.<br> 
+⚔️ I actively engaged and participate on platforms like <b>HackTheBox</b>, <b>TryHackMe</b>, <b>Overthewire</b> and <b>WeChall</b>, where I continuously refine my practical and also sharpen my offensive skills.<br> 
+📁 I build and maintain tools for red teaming, penetration testing, malware analysis and custom offensive tools.<br><br> 
 
-🔒 I believe in ethical hacking, continuous learning, and pushing boundaries to secure the digital world. 
+🔒 I aim to contribute meaningfully to the security community by building secure systems, responsibly disclosing vulnerabilities, and staying at the forefront of cyber defense innovation. 
 </i>
 
 <!--   my-icons --> 
