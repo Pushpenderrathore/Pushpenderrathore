@@ -1,6 +1,21 @@
 # 💫 About Me:
 <i><i>Welcome! <br>I'm Pushpender Singh Rathore, a red teamer, Hacker, and offensive security leader. <br>My GitHub usually contains useful projects for offensive security practitioners.</i></i> 
 
+# 💫 About Me: 
+
+<i> 
+Welcome! <br> 
+I'm <b>Pushpender Singh Rathore</b> — a passionate Red Teamer, ethical hacker, and offensive security enthusiast. <br><br> 
+
+🎓 I'm currently pursuing my B.Tech in Computer Science & Engineering. <br> 
+💻 I specialize in cybersecurity, reverse engineering, and exploit development. <br> 
+🛠️ My expertise includes C, C++, Python, Assembly, and low-level system manipulation. <br> 
+⚔️ I actively participate in platforms like <b>HackTheBox</b>, <b>TryHackMe</b>, and <b>WeChall</b> to sharpen my offensive skills. <br> 
+📁 I build and maintain tools for red teaming, penetration testing, and malware analysis. <br><br> 
+
+🔒 I believe in ethical hacking, continuous learning, and pushing boundaries to secure the digital world. 
+</i>
+
 <!--   my-icons --> 
 <p align="left">
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
