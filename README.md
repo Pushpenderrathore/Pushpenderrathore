@@ -10,7 +10,7 @@
    </a>
  </p>
 
-[![WeChall](https://img.shields.io/badge/WeChall-Pushpenderrathore-121212?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://www.wechall.net/profile/pushpenderrathore) 
+[![WeChall](https://img.shields.io/badge/WeChall-Pushpenderrathore-121212?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://www.wechall.net/profile/rootanonymous) 
 
 ---
 
