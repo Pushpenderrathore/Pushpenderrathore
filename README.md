@@ -1,12 +1,16 @@
 # 💫 About Me:
 <i>Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive security leader. <br><br>My GitHub usually contains useful projects for offensive security practitioners.</i> 
 
+---
+
 <h3 align="left">Hackthebox Profile</h3> 
 <p align="left">
    <a href="https://app.hackthebox.com/profile/overview" target="_blank">
      <img src="https://account.hackthebox.com/images/logos/logo-htb-account.svg" alt="Hackthebox" width="150"/>
    </a>
  </p>
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/28NAVxFE) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jhaddix) 
