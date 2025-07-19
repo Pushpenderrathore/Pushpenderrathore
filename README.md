@@ -7,9 +7,9 @@
      <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pushpenderrathore/Pushpenderrathore?color=blue"></a>
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/stargazers"><img src="https://img.shields.io/github/stars/Pushpenderrathore/Pushpenderrathore.svg?logo=github"></a>
-     <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/network/members"><img src="https://img.shields.io/github/forks/Pushpenderrathore/Pushpenderrathore.svg?color=blue&logo=github"></a>
-     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>    
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=Pushpenderrathore.Pushpenderrathore" alt="visitors"/>    
 </p>
+
 ---
 
 <h3 align="left">Hackthebox Profile</h3> 
