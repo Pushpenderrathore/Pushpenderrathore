@@ -6,9 +6,11 @@
 <h3 align="left">Hackthebox Profile</h3> 
 <p align="left">
    <a href="https://app.hackthebox.com/profile/overview" target="_blank">
-     <img src="https://account.hackthebox.com/images/logos/logo-htb-account.svg" alt="Hackthebox" width="150"/> [![WeChall](https://img.shields.io/badge/WeChall-Pushpenderrathore-121212?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://www.wechall.net/profile/pushpenderrathore) 
+     <img src="https://account.hackthebox.com/images/logos/logo-htb-account.svg" alt="Hackthebox" width="150"/> 
    </a>
  </p>
+
+[![WeChall](https://img.shields.io/badge/WeChall-Pushpenderrathore-121212?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://www.wechall.net/profile/pushpenderrathore) 
 
 ---
 
