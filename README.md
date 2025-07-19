@@ -5,9 +5,9 @@
 <p align="left">
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
      <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+     <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-Language-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pushpenderrathore/Pushpenderrathore?color=blue"></a>
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/stargazers"><img src="https://img.shields.io/github/stars/Pushpenderrathore/Pushpenderrathore.svg?logo=github"></a>
-     <a href="https://github.com/topics/cpp"><img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
      <img src="https://visitor-badge.laobi.icu/badge?page_id=Pushpenderrathore.Pushpenderrathore" alt="visitors"/>    
 </p>
 
