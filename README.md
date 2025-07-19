@@ -2,10 +2,10 @@
 <i>Welcome! <br><br>I'm Pushpender Rathore, a red teamer, Hacker, and offensive security leader. <br><br>My GitHub usually contains useful projects for offensive security practitioners.</i> 
 
 <!--   my-icons --> 
-<p align="center">
+<p align="left">
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
      <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-     <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+     <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pushpenderrathore/Pushpenderrathore?color=blue"></a>
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
      <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>    
