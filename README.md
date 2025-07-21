@@ -1,7 +1,5 @@
 # 💫 About Me: 
 
-![My Image](assets/assets_task_01k0p6wkpeejpaaebvn4e46zf9_1753092187_img_0.webp)
-
 <i>
 Greetings and Welcome to my profile. <br><br> 
 I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional with a deep focus on <b>ethical hacking</b> and <b>offensive security research</b>.<br><br> 
