@@ -1,6 +1,6 @@
 # 💫 About Me: 
 
-![My Image](assets/assets_task_01k0mr77e8ex2bske0qf5pgydn_1753043311_img_0.webp)
+![My Image](assets/assets_task_01k0n83gn8era9ev5wpwgyjr9y_1753059886_img_1.webp)
 
 <i> 
 Greetings and Welcome to my profile. <br><br> 
