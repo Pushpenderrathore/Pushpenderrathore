@@ -58,7 +58,7 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 
 **📫 How to Reach me:** 
 <p align="left">
-<a href="https://twitter.com/Pushpender Singh Rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Pushpenderrathore" height="30" width="30" /></a> 
+<a href="https://x.com/pushpender5177?t=JhoyeuTXej7Z27DH1apUNw&s=09 " target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Pushpenderrathore" height="30" width="30" /></a> 
 <a href="https://www.linkedin.com/in/pushpender-singh-rathore-72466a260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Pushpenderrathore" height="30" width="30" /></a> 
 <a href="mailto:bluedevil5177@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a> <a href="https://api.whatsapp.com/send?phone=+917300301634" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
 </p>
