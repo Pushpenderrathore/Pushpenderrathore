@@ -24,6 +24,15 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 
 ---
 
+## 🚀 GitHub Contributions
+[![GitHub Badge](https://img.shields.io/badge/Contributions-Mirai%20PR%20Merged-green)](https://github.com/Pushpenderrathore/Mirai-Source-Code/pull/46)
+
+**Contributed to:**
+- [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
+- Enhanced `README.md` with **research usage** and **ethical guidelines** for malware analysis.
+
+---
+
 <h3 align="left">Hackthebox Profile</h3> 
 <p align="left">
    <a href="https://app.hackthebox.com/profile/overview" target="_blank">
