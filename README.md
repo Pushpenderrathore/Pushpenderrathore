@@ -1,6 +1,6 @@
 ## 👾 HackTheMatrix 👾
 
-# Greetings and Welcome to my profile # 
+## Greetings and Welcome to my profile 
 <i>
 # Greetings and Welcome to my profile.# <br><br> 
 I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional with a deep focus on <b>ethical hacking</b> and <b>offensive security research</b>.<br><br> 
