@@ -1,4 +1,4 @@
-# 💫 About Me: ## 👾 HackTheMatrix 👾
+## 👾 HackTheMatrix 👾
  
 <i>
 Greetings and Welcome to my profile. <br><br> 
