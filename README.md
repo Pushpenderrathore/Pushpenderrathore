@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me:  :octocat: 
 
 <i>
 Greetings and Welcome to my profile. <br><br> 
