@@ -59,7 +59,7 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 ## Thanks for visiting!
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Pushpenderrathore/count.svg" alt="## 💫 Thanks for visiting!">
+  <img src="https://profile-counter.glitch.me/Pushpenderrathore/count.svg" alt="💫 Thanks for visiting!">
 </p>
 
 Counting of visitors to this page in this section started from May 1, 2022
