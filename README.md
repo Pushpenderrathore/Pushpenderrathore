@@ -66,12 +66,6 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 
 ---
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Pushpenderrathore/Pushpenderrathore&type=Date)](https://star-history.com/#Pushpenderrathore/Pushpenderrathore&Date)
-
-
 [![](https://visitcount.itsvg.in/api?id=Pushpenderrathore&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Profile Views counting of visitors to this page in this section started from July 7, 2025 
