@@ -44,8 +44,6 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,bash,powershell,vim,postman,docker,github,git,vscode,arch,linux,kali,windows,ubuntu,apple&theme=dark&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=github&theme=dark&perline=2)](https://skillicons.dev)
-
 ## 🥈 Secondary technology stack
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-%23A179DC.svg?style=for-the-badge&logoColor=white) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-%23007396.svg?style=for-the-badge&logo=codeforces&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23212121.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=security&logoColor=white) ![Hack The Box](https://img.shields.io/badge/HackTheBox-%2300FF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black) ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23EC1C24.svg?style=for-the-badge&logo=tryhackme&logoColor=white) ![OverTheWire](https://img.shields.io/badge/OverTheWire-%231b1b1b.svg?style=for-the-badge&logo=gnu&logoColor=white) ![WeChall](https://img.shields.io/badge/WeChall-%230064ff.svg?style=for-the-badge&logo=google-chrome&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-%2300B9FF.svg?style=for-the-badge&logo=gnubash&logoColor=white)   ![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?style=for-the-badge&logo=eye&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-%23FF0000.svg?style=for-the-badge&logo=semantic-web&logoColor=white) [![Parrot OS](https://img.shields.io/badge/Parrot%20OS-008585?style=for-the-badge&logo=parrot-security&logoColor=white)](https://www.parrotsec.org/)  [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
@@ -57,7 +55,12 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ <!-- GitHub Trophy Board -->
+<img 
+    src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=15"
+    alt="GitHub Trophies"
+    style="margin-top:20px; max-width:850px; border-radius:15px; box-shadow:0 0 25px rgba(0,162,255,0.3);"/>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
