@@ -57,7 +57,7 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 ## 🏆 GitHub Trophies
  <!-- GitHub Trophy Board -->
 <img 
-    src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=15"
+    src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=tokyonight&no-bg=true&no-frame=true&column=5&margin-w=10&margin-h=15"
     alt="GitHub Trophies"
     style="margin-top:20px; max-width:850px; border-radius:15px; box-shadow:0 0 25px rgba(0,162,255,0.3);"/>
 </div>
