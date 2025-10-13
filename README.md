@@ -16,7 +16,7 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 <!--   my-icons --> 
 <p align="left">
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-     <a href="https://github.com/python/Pushpenderrathore"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+     <a href="https://github.com/Pushpenderrathore/Pushpenderrathore"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pushpenderrathore/Pushpenderrathore?color=blue"></a>
      <a href="https://github.com/Pushpenderrathore/Pushpenderrathore/stargazers"><img src="https://img.shields.io/github/stars/Pushpenderrathore/Pushpenderrathore.svg?logo=github"></a>
      <img src="https://visitor-badge.laobi.icu/badge?page_id=Pushpenderrathore.Pushpenderrathore" alt="visitors"/>    
