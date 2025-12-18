@@ -54,18 +54,6 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushpenderrathore&theme=tokyonight" alt="streak stats" />
 </div>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pushpenderrathore&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Pushpenderrathore&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=darkhub)
-
 **📫 How to Reach me:** 
 <p align="left">
 <a href="https://x.com/pushpender5177?t=JhoyeuTXej7Z27DH1apUNw&s=09 " target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Pushpenderrathore" height="30" width="30" /></a> 
