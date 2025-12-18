@@ -54,29 +54,17 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushpenderrathore&theme=tokyonight" alt="streak stats" />
 </div>
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pushpenderrathore&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Pushpenderrathore&theme=tokyonight)
+
+---
+
 ## 🏆 GitHub Trophies
- <!-- GitHub Trophy Board -->
-<img 
-    src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=tokyonight&no-bg=true&no-frame=true&column=5&margin-w=10&margin-h=15"
-    alt="GitHub Trophies"
-    style="margin-top:20px; max-width:850px; border-radius:15px; box-shadow:0 0 25px rgba(0,162,255,0.3);"/>
-</div>
 
-<div align="left">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushpenderrathore&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushpenderrathore&theme=tokyonight" />
-</div>
-
-<br/>
-
-<div align="left">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=tokyonight&no-bg=true&no-frame=true&column=5" />
-</div>
-
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=darkhub)
 
 **📫 How to Reach me:** 
 <p align="left">
