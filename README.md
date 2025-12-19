@@ -27,14 +27,14 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 <h3 align="left">HackTheBox Profile</h3>
 <p align="left">
   <a href="https://app.hackthebox.com/public/users/724136" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
+    <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" width="300"/>
   </a>
 </p>
 
 <h3 align="left">WeChall Profile</h3>
 <p align="left">
   <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
-    <img src="https://img.shields.io/badge/WeChall-rootanonymous-0064ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WeChall"/>
+    <img src="https://img.shields.io/badge/WeChall-rootanonymous-0064ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WeChall" width="300"/>
   </a>
 </p>
 
