@@ -30,22 +30,18 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
     <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
   </a>
 </p>
- 
-<h3 align="left">TryHackMe Profile</h3>
-<p align="left">
-  <a href="https://tryhackme.com/p/enp7s0d" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="TryHackMe" width="150"/>
-  </a>
-</p>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="Your Image Badge" />
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=942170" style='border:none;'></iframe>
 
 <h3 align="left">WeChall Profile</h3>
 <p align="left">
   <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
     <img src="https://img.shields.io/badge/WeChall-rootanonymous-0064ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WeChall"/>
+  </a>
+</p>
+
+<h3 align="left">TryHackMe Profile</h3>
+<p align="left">
+  <a href="https://tryhackme.com/p/enp7s0d" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="Your Image Badge" width="150"/>
   </a>
 </p>
 
