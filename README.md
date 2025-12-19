@@ -30,6 +30,9 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
      <img src="https://account.hackthebox.com/images/logos/logo-htb-account.svg" alt="Hackthebox" width="150"/> 
    </a>
  </p>
+ 
+ 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pushpenderrathore.png)](https://tryhackme.com/p/pushpenderrathore)
 
 <h3 align="left">Wechall Profile</h3>
 
