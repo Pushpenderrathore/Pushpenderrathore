@@ -38,6 +38,8 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
   </a>
 </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="Your Image Badge" />
+
 <h3 align="left">WeChall Profile</h3>
 <p align="left">
   <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
