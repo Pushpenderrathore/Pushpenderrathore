@@ -41,7 +41,7 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 <h3 align="left">TryHackMe Profile</h3>
 <p align="left">
   <a href="https://tryhackme.com/p/enp7s0d" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="Your Image Badge" width="50"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="Your Image Badge" width="300"/>
   </a>
 </p>
 
