@@ -31,8 +31,13 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
    </a>
  </p>
  
- 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pushpenderrathore.png)](https://tryhackme.com/p/enp7s0d)
+<h3 align="left">TryHackMe Profile</h3>
+<p align="left">
+  <a href="https://tryhackme.com/p/enp7s0d" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="TryHackMe" width="150"/>
+  </a>
+</p>
+
 
 <h3 align="left">Wechall Profile</h3>
 
