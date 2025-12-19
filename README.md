@@ -32,7 +32,7 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
  </p>
  
  
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pushpenderrathore.png)](https://tryhackme.com/p/pushpenderrathore)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pushpenderrathore.png)](https://tryhackme.com/p/enp7s0d)
 
 <h3 align="left">Wechall Profile</h3>
 
