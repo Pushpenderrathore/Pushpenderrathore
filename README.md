@@ -30,6 +30,13 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
      <img src="https://account.hackthebox.com/images/logos/logo-htb-account.svg" alt="Hackthebox" width="150"/> 
    </a>
  </p>
+
+<h3 align="left">HackTheBox Profile</h3>
+<p align="left">
+  <a href="https://app.hackthebox.com/public/users/724136" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
+  </a>
+</p>
  
 <h3 align="left">TryHackMe Profile</h3>
 <p align="left">
