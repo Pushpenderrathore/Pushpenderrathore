@@ -38,10 +38,19 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
   </a>
 </p>
 
+<h3 align="left">WeChall Profile</h3>
+<p align="left">
+  <a href="https://www.wechall.net/profile/rootanonymous" target="_blank">
+    <img src="https://img.shields.io/badge/WeChall-rootanonymous-0064ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WeChall"/>
+  </a>
+</p>
+
 
 <h3 align="left">Wechall Profile</h3>
 
 [![WeChall](https://img.shields.io/badge/WeChall-Pushpenderrathore-121212?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://www.wechall.net/profile/rootanonymous) 
+
+
 
 ---
 
