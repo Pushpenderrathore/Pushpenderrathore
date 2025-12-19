@@ -81,5 +81,6 @@ I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional w
 
 <img src="https://count.getloli.com/@Pushpenderrathore.github.readme" alt="Pushpenderrathore" />
 
+<image src="https://count.getloli.com/@enp7s0d?name=enp7s0d&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="enp7s0d" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
