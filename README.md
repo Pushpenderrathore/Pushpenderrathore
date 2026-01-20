@@ -2,7 +2,7 @@
 
 ## Greetings and Welcome to profile 
 <i> 
-I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional with a deep focus on <b>ethical hacking</b> and <b>offensive security research</b>.<br><br> 
+I'm <b>Pushpender Singh Rathore</b> an aspiring CyberSecurity Professional with a deep focus on <b>ethical hacking</b> and <b>offensive security research</b>.<br><br> 
 
 I'm currently pursuing my B.Tech in Computer Science & Engineering, I have a strong foundation in computer systems, low-level programming, and exploit development.<br> 
 I specialize in cybersecurity, reverse engineering, adversary simulation, vulnerability assessment and exploit development. <br> 
