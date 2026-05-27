@@ -1,21 +1,50 @@
 # 👾 HackTheMatrix 👾 #
 
-## Greetings and Welcome to my profile 
-<i> 
-I'm <b>Pushpender Singh Rathore</b> — an aspiring CyberSecurity Professional with a deep focus on <b>ethical hacking</b> and <b>offensive security research</b>.<br><br> 
+## About Me
 
-I'm currently pursuing my B.Tech in Computer Science & Engineering, I have a strong foundation in computer systems, low-level programming, and exploit development.<br> 
+<i>
+I'm <b>Pushpender Singh Rathore</b> a <b>Cybersecurity Researcher</b> and <b>Offensive Security Engineer</b> specializing in vulnerability research, exploit development, and adversary simulation. I architect and contribute to industry-defining open-source security tooling used by red teams, blue teams, and researchers worldwide.<br><br>
 
-I specialize in cybersecurity, reverse engineering, adversary simulation, vulnerability assessment and exploit development. <br> 
+Currently pursuing a <b>B.Tech in Computer Science & Engineering</b>, I operate at the intersection of low-level systems engineering and offensive security from kernel internals and binary exploitation to network reconnaissance and post-exploitation tradecraft.<br><br>
 
-My expertise includes C, C++, Python, Assembly, and low-level system manipulation, also familiar with tools and frameworks like <b>Burpe Suite, Metasploit, Nmap, WireShark, Gdb, BinaryNinja and Ghidra</b>.<br> 
+<b>Core focus areas:</b><br>
+&nbsp;&nbsp;• Vulnerability Research & Responsible Disclosure<br>
+&nbsp;&nbsp;• Exploit Development & Weaponization<br>
+&nbsp;&nbsp;• Reverse Engineering & Malware Analysis<br>
+&nbsp;&nbsp;• Red Team Operations & Adversary Emulation<br>
+&nbsp;&nbsp;• Open-Source Security Tooling<br><br>
 
-I actively engaged and participate on platforms like <b>HackTheBox</b>, <b>TryHackMe</b>, <b>Overthewire</b> and <b>WeChall</b>, where I continuously refine my practical and also sharpen my offensive skills.<br> 
+<b>Technical proficiency:</b> C, C++, Python, x86/x64 Assembly, Bash with deep working knowledge of <b>Metasploit Framework</b>, <b>Nmap</b>, <b>Burp Suite</b>, <b>Ghidra</b>, <b>Binary Ninja</b>, <b>GDB</b>, and <b>Wireshark</b>.<br><br>
 
-I build and maintain tools for red teaming, penetration testing, malware analysis and custom offensive tools.<br><br> 
-
-I aim to contribute meaningfully to the security community by building secure systems, responsibly disclosing vulnerabilities, and staying at the forefront of cyber defense innovation. 
+I sharpen my craft on <b>HackTheBox</b>, <b>TryHackMe</b>, <b>OverTheWire</b>, and <b>WeChall</b>, and contribute back to the community by building, maintaining, and upstreaming tooling that advances the state of offensive security.
 </i>
+
+---
+
+## 🏆 Google Summer of Code
+
+I have had the privilege of contributing to two of the most influential open-source projects in the cybersecurity ecosystem under the <b>Google Summer of Code</b> program:
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://summerofcode.withgoogle.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GSoC%202024-Nmap-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSoC 2024 - Nmap"/>
+      </a>
+      <br><br>
+      <b>GSoC 2024 — Nmap Project</b><br>
+      <sub>Contributor under the Nmap Security Scanner organization. Worked on enhancing the world's leading network discovery and security auditing engine — improving scanning capabilities, NSE scripts, and protocol support relied upon by millions of practitioners globally.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://summerofcode.withgoogle.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GSoC%202026-Metasploit-2596CB?style=for-the-badge&logo=metasploit&logoColor=white" alt="GSoC 2026 - Metasploit"/>
+      </a>
+      <br><br>
+      <b>GSoC 2026 — Metasploit Framework</b><br>
+      <sub>Selected contributor with the Metasploit Project (Rapid7). Engineering new modules, exploit primitives, and framework capabilities for the industry-standard penetration testing platform used across professional red teams and security research worldwide.</sub>
+    </td>
+  </tr>
+</table>
 
 
 <!--   my-icons --> 
