@@ -46,6 +46,46 @@ I have had the privilege of contributing to two of the most influential open-sou
   </tr>
 </table>
 
+---
+
+## 🎖️ Professional Certifications
+
+Industry-recognized credentials validating hands-on offensive security expertise, foundational security knowledge, and ethical hacking proficiency:
+
+<p align="left">
+  <a href="https://www.offsec.com/courses/pen-200/" target="_blank">
+    <img src="https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-000000?style=for-the-badge&logo=offensive-security&logoColor=#54FE54&labelColor=black" alt="OSCP"/>
+  </a>
+  &nbsp;
+  <a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/" target="_blank">
+    <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-EE0000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CEH"/>
+  </a>
+  &nbsp;
+  <a href="https://www.comptia.org/certifications/security" target="_blank">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-E00122?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>OSCP</b><br>
+      <sub><i>Offensive Security Certified Professional</i></sub><br><br>
+      <sub>Hands-on penetration testing certification by OffSec, validating real-world exploitation, privilege escalation, and Active Directory attack proficiency through a 24-hour practical exam.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>CEH</b><br>
+      <sub><i>Certified Ethical Hacker</i></sub><br><br>
+      <sub>EC-Council certification covering the full offensive lifecycle — reconnaissance, enumeration, exploitation, post-exploitation, and reporting across networks, web, wireless, and cloud.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>CompTIA Security+</b><br>
+      <sub><i>Global Baseline Security Certification</i></sub><br><br>
+      <sub>Vendor-neutral certification validating core competencies in threat management, cryptography, identity & access management, risk mitigation, and incident response.</sub>
+    </td>
+  </tr>
+</table>
+
 
 <!--   my-icons --> 
 <p align="left">
