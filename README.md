@@ -90,61 +90,158 @@ Industry-recognized credentials validating hands-on offensive security expertise
 
 ## 🚀 Featured Projects
 
-A curated selection of original work spanning offensive security tooling, autonomous AI security agents, and full-stack security operations frameworks:
+### ⭐ Originals
+
+Self-authored work spanning offensive security tooling, autonomous AI agents, privacy infrastructure, and full-stack security operations:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Unified Security Operations Framework</h3>
+      <p align="center"><sub>Modular SOC framework integrating multiple security capabilities into a unified operational pipeline.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Goblins</h3>
+      <p align="center"><sub>Autonomous AI-driven cybersecurity agent that analyzes lab results and publishes educational insights as a daemon — no human in the loop.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Goblins?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/Goblins?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Goblins?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Goblins?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/Goblins"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💣 Payload Framework</h3>
+      <p align="center"><sub>Custom offensive payload generation and management framework for red team operations.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/payload_framework?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/payload_framework?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/payload_framework?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/payload_framework?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/payload_framework"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐚 Shydun</h3>
+      <p align="center"><sub>SSH-based botnet networking primitive written in C for research and adversary emulation.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/shydun?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/shydun?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/shydun?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/shydun?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/shydun"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🦾 DI03766 — AI Terminal Assistant</h3>
+      <p align="center"><sub>Local AI-powered terminal assistant for macOS — natural language to tooling (Nmap and beyond) across DeepSeek, Qwen, and Mistral via Ollama.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/DI03766?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/DI03766?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/DI03766?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/DI03766?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/DI03766"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 claude-code</h3>
+      <p align="center"><sub>Anthropic-compatible proxy routing Claude Code (Opus / Sonnet / Haiku), the VS Code extension, and JetBrains ACP traffic to free or local model providers.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/claude-code?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/claude-code?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/claude-code?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/claude-code?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/claude-code"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🥷 macchanger_daeion</h3>
+      <p align="center"><sub>Systemd service that rotates MAC addresses every 5 minutes across detected network interfaces — includes kill-switch for privacy-focused Linux setups (Arch / Debian / Fedora).</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/macchanger_daeion?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/macchanger_daeion?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/macchanger_daeion?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/macchanger_daeion?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/macchanger_daeion"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 SCAGS</h3>
+      <p align="center"><sub>AI-powered, DevOps-ready platform with scalable architecture, JWT auth, and full CI/CD pipeline.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/SCAGS?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/SCAGS?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/SCAGS?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/SCAGS?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/SCAGS"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ Face Recognition Attendance</h3>
+      <p align="center"><sub>Computer-vision-based attendance system leveraging face recognition for automated, contactless presence tracking.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/face_recognition_attendance_system"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Smart Attendance System</h3>
+      <p align="center"><sub>Modern attendance tracking platform with streamlined UX for educational and workplace presence management.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/smart-attendance-system?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/smart-attendance-system?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/smart-attendance-system?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/smart-attendance-system?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/smart-attendance-system"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+</table>
+
+### 🔬 Research / Mirrors
+
+Forks I actively study, extend, or maintain as references — for vulnerability research, AI-assisted security tooling experiments, and IoC development:
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🛡️ Unified SOC Framework</h4>
-      <p align="center"><sub>Modular SOC framework integrating multiple security capabilities into a unified operational pipeline.</sub></p>
+      <h4 align="center">🚨 CVE-2026-22812 Exploit</h4>
+      <p align="center"><sub>Proof-of-concept exploit and technical analysis for CVE-2026-22812 — vulnerability research and responsible disclosure case study.</sub></p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/CVE-2026-22812-exploit?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/CVE-2026-22812-exploit?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/CVE-2026-22812-exploit?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
       </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/CVE-2026-22812-exploit"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🤖 Goblins</h4>
-      <p align="center"><sub>Autonomous AI cybersecurity agent — analyzes lab results and publishes educational insights as a daemon, no human in the loop.</sub></p>
+      <h4 align="center">🦠 Mirai-Source-Code</h4>
+      <p align="center"><sub>Archived mirror of the Mirai IoT botnet source — maintained <b>strictly for academic security research and IoC development</b>.</sub></p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Goblins?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Goblins?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Goblins?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Mirai-Source-Code?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Mirai-Source-Code?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Mirai-Source-Code?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
       </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/Goblins"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">💣 Payload Framework</h4>
-      <p align="center"><sub>Custom offensive payload generation and management framework for red team operations.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/payload_framework?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/payload_framework?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/payload_framework?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/payload_framework"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🐚 Shydun</h4>
-      <p align="center"><sub>SSH-based botnet networking primitive written in C for research and adversary emulation.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/shydun?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/shydun?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/shydun?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/shydun"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🦾 DI03766 — AI Terminal</h4>
-      <p align="center"><sub>Local AI-powered macOS terminal assistant — natural language → tooling (Nmap and beyond) via DeepSeek, Qwen, Mistral on Ollama.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/DI03766?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/DI03766?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/DI03766?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/DI03766"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/Mirai-Source-Code"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">🔍 llm-tools-nmap</h4>
@@ -159,16 +256,6 @@ A curated selection of original work spanning offensive security tooling, autono
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🧠 claude-code</h4>
-      <p align="center"><sub>Anthropic-compatible proxy routing Claude Code (Opus / Sonnet / Haiku), VS Code, and JetBrains ACP to free or local model providers.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/claude-code?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/claude-code?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/claude-code?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/claude-code"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-    <td width="33%" valign="top">
       <h4 align="center">🧩 AI Decision Simulator</h4>
       <p align="center"><sub>AI-powered decision-making simulation engine modeling outcomes and tradeoffs across varying inputs and constraints.</sub></p>
       <p align="center">
@@ -179,70 +266,6 @@ A curated selection of original work spanning offensive security tooling, autono
       <p align="center"><a href="https://github.com/Pushpenderrathore/AI_DECISION_SIMULATOR"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🥷 macchanger_daeion</h4>
-      <p align="center"><sub>Systemd service that rotates MAC addresses every 5 min across detected interfaces — includes kill-switch for privacy-focused Linux (Arch/Debian/Fedora).</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/macchanger_daeion?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/macchanger_daeion?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/macchanger_daeion?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/macchanger_daeion"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🚨 CVE-2026-22812 Exploit</h4>
-      <p align="center"><sub>Proof-of-concept exploit and technical analysis for CVE-2026-22812 — vulnerability research and responsible disclosure case study.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/CVE-2026-22812-exploit?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/CVE-2026-22812-exploit?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/CVE-2026-22812-exploit?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/CVE-2026-22812-exploit"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🦠 Mirai-Source-Code</h4>
-      <p align="center"><sub>Archived mirror of the Mirai IoT botnet source code — maintained <b>strictly for academic security research and IoC development</b>.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Mirai-Source-Code?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Mirai-Source-Code?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Mirai-Source-Code?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/Mirai-Source-Code"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🎓 SCAGS</h4>
-      <p align="center"><sub>AI-powered, DevOps-ready platform with scalable architecture, JWT auth, and full CI/CD pipeline.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/SCAGS?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/SCAGS?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/SCAGS?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/SCAGS"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">👁️ Face Recognition Attendance</h4>
-      <p align="center"><sub>Computer-vision-based attendance system leveraging face recognition for automated, contactless presence tracking.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/face_recognition_attendance_system"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">📋 Smart Attendance System</h4>
-      <p align="center"><sub>Modern attendance tracking platform with streamlined UX for educational and workplace presence management.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/smart-attendance-system?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/smart-attendance-system?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/smart-attendance-system?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/smart-attendance-system"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
-    <td width="33%" valign="top">
       <h4 align="center">🗳️ College Voting System</h4>
       <p align="center"><sub>Secure web-based election platform — voter registration, candidate management, and real-time results for campus elections.</sub></p>
       <p align="center">
@@ -251,6 +274,8 @@ A curated selection of original work spanning offensive security tooling, autono
         <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/College_Voting_System-?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
       </p>
       <p align="center"><a href="https://github.com/Pushpenderrathore/College_Voting_System-"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="33%" valign="top">
     </td>
   </tr>
 </table>
