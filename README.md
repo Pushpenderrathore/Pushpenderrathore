@@ -86,6 +86,53 @@ Industry-recognized credentials validating hands-on offensive security expertise
   </tr>
 </table>
 
+---
+
+## 🚀 Featured Projects
+
+A curated selection of original work spanning offensive security tooling, autonomous AI security agents, and full-stack security operations frameworks:
+
+<p align="center">
+  <a href="https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=Unified-Security-Operations-Framework&theme=tokyonight&hide_border=true" alt="Unified Security Operations Framework"/>
+  </a>
+  <a href="https://github.com/Pushpenderrathore/Goblins">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=Goblins&theme=tokyonight&hide_border=true" alt="Goblins"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pushpenderrathore/payload_framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=payload_framework&theme=tokyonight&hide_border=true" alt="Payload Framework"/>
+  </a>
+  <a href="https://github.com/Pushpenderrathore/shydun">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=shydun&theme=tokyonight&hide_border=true" alt="Shydun"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pushpenderrathore/DI03766">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=DI03766&theme=tokyonight&hide_border=true" alt="Local AI Terminal Assistant"/>
+  </a>
+  <a href="https://github.com/Pushpenderrathore/SCAGS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=SCAGS&theme=tokyonight&hide_border=true" alt="SCAGS"/>
+  </a>
+</p>
+
+<details>
+  <summary><b>📂 Project Highlights</b></summary>
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Unified Security Operations Framework](https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework)** | Modular SOC framework integrating multiple security capabilities into a unified operational pipeline. | Python |
+| **[Goblins](https://github.com/Pushpenderrathore/Goblins)** | Autonomous AI-driven cybersecurity agent that analyzes lab results and publishes educational insights as a daemon — no human in the loop. | Python |
+| **[Payload Framework](https://github.com/Pushpenderrathore/payload_framework)** | Custom offensive payload generation and management framework for red team operations. | Python |
+| **[Shydun](https://github.com/Pushpenderrathore/shydun)** | SSH-based botnet networking primitive written in C for research and adversary emulation. | C |
+| **[DI03766](https://github.com/Pushpenderrathore/DI03766)** | Local AI-powered terminal assistant for macOS — natural language to tooling (Nmap and beyond) across DeepSeek, Qwen, and Mistral via Ollama. | Shell / Python |
+| **[SCAGS](https://github.com/Pushpenderrathore/SCAGS)** | AI-powered, DevOps-ready platform with scalable architecture, JWT auth, and full CI/CD pipeline. | Python |
+
+</details>
+
 
 <!--   my-icons --> 
 <p align="left">
