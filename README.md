@@ -115,7 +115,7 @@ Industry-recognized credentials validating hands-on offensive security expertise
 <h3 align="left">TryHackMe Profile</h3>
 <p align="left">
   <a href="https://tryhackme.com/p/enp7s0d" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="Your Image Badge" width="300"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/enp7s0d.png" alt="TryHackMe Badge" width="300"/>
   </a>
 </p>
 
