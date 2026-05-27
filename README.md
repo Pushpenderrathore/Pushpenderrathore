@@ -178,6 +178,29 @@ A curated selection of original work spanning offensive security tooling, autono
 ## 🥈 Secondary technology stack
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-%23A179DC.svg?style=for-the-badge&logoColor=white) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-%23007396.svg?style=for-the-badge&logo=codeforces&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23212121.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=security&logoColor=white) ![Hack The Box](https://img.shields.io/badge/HackTheBox-%2300FF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black) ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23EC1C24.svg?style=for-the-badge&logo=tryhackme&logoColor=white) ![OverTheWire](https://img.shields.io/badge/OverTheWire-%231b1b1b.svg?style=for-the-badge&logo=gnu&logoColor=white) ![WeChall](https://img.shields.io/badge/WeChall-%230064ff.svg?style=for-the-badge&logo=google-chrome&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-%2300B9FF.svg?style=for-the-badge&logo=gnubash&logoColor=white)   ![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?style=for-the-badge&logo=eye&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-%23FF0000.svg?style=for-the-badge&logo=semantic-web&logoColor=white) [![Parrot OS](https://img.shields.io/badge/Parrot%20OS-008585?style=for-the-badge&logo=parrot-security&logoColor=white)](https://www.parrotsec.org/)  [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushpenderrathore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpenderrathore&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpenderrathore&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushpenderrathore&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
 **📫 How to Reach me:** 
 <p align="left">
 <a href="https://x.com/pushpender5177" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Pushpenderrathore" height="30" width="30" /></a> 
