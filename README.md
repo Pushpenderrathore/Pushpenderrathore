@@ -101,7 +101,7 @@ Industry-recognized credentials validating hands-on offensive security expertise
 <h3 align="left">HackTheBox Profile</h3>
 <p align="left">
   <a href="https://app.hackthebox.com/public/users/724136" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" width="300"/>
+    <img src="https://www.hackthebox.com/badge/image/724136" alt="HackTheBox" width="300"/>
   </a>
 </p>
 
