@@ -174,6 +174,55 @@ A curated selection of original work spanning offensive security tooling, autono
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🔍 llm-tools-nmap</h3>
+      <p align="center"><sub>LLM automation layer integrating offline and online AI with Nmap through user-friendly CLI commands.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/llm-tools-nmap?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/llm-tools-nmap?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/llm-tools-nmap?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/llm-tools-nmap?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/llm-tools-nmap">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 claude-code</h3>
+      <p align="center"><sub>Anthropic-compatible proxy routing Claude Code (Opus / Sonnet / Haiku), the VS Code extension, and JetBrains ACP traffic to free or local model providers.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/claude-code?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/claude-code?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/claude-code?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/claude-code?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/claude-code">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 AI Decision Simulator</h3>
+      <p align="center"><sub>AI-powered decision-making simulation engine modeling outcomes and tradeoffs across varying inputs and constraints.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/AI_DECISION_SIMULATOR?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/AI_DECISION_SIMULATOR?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/AI_DECISION_SIMULATOR?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/AI_DECISION_SIMULATOR?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/AI_DECISION_SIMULATOR">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🎓 SCAGS</h3>
       <p align="center"><sub>AI-powered, DevOps-ready platform with scalable architecture, JWT auth, and full CI/CD pipeline.</sub></p>
       <p align="center">
@@ -184,6 +233,21 @@ A curated selection of original work spanning offensive security tooling, autono
       </p>
       <p align="center">
         <a href="https://github.com/Pushpenderrathore/SCAGS">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ Face Recognition Attendance</h3>
+      <p align="center"><sub>Computer-vision-based attendance system leveraging face recognition for automated, contactless presence tracking.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/face_recognition_attendance_system?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/face_recognition_attendance_system">
           <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
         </a>
       </p>
