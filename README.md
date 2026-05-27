@@ -92,46 +92,104 @@ Industry-recognized credentials validating hands-on offensive security expertise
 
 A curated selection of original work spanning offensive security tooling, autonomous AI security agents, and full-stack security operations frameworks:
 
-<p align="center">
-  <a href="https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=Unified-Security-Operations-Framework&theme=dracula&hide_border=true" alt="Unified Security Operations Framework"/>
-  </a>
-  <a href="https://github.com/Pushpenderrathore/Goblins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=Goblins&theme=dracula&hide_border=true" alt="Goblins"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pushpenderrathore/payload_framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=payload_framework&theme=dracula&hide_border=true" alt="Payload Framework"/>
-  </a>
-  <a href="https://github.com/Pushpenderrathore/shydun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=shydun&theme=dracula&hide_border=true" alt="Shydun"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pushpenderrathore/DI03766">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=DI03766&theme=dracula&hide_border=true" alt="Local AI Terminal Assistant"/>
-  </a>
-  <a href="https://github.com/Pushpenderrathore/SCAGS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=SCAGS&theme=dracula&hide_border=true" alt="SCAGS"/>
-  </a>
-</p>
-
-<details>
-  <summary><b>📂 Project Highlights</b></summary>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Unified Security Operations Framework](https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework)** | Modular SOC framework integrating multiple security capabilities into a unified operational pipeline. | Python |
-| **[Goblins](https://github.com/Pushpenderrathore/Goblins)** | Autonomous AI-driven cybersecurity agent that analyzes lab results and publishes educational insights as a daemon — no human in the loop. | Python |
-| **[Payload Framework](https://github.com/Pushpenderrathore/payload_framework)** | Custom offensive payload generation and management framework for red team operations. | Python |
-| **[Shydun](https://github.com/Pushpenderrathore/shydun)** | SSH-based botnet networking primitive written in C for research and adversary emulation. | C |
-| **[DI03766](https://github.com/Pushpenderrathore/DI03766)** | Local AI-powered terminal assistant for macOS — natural language to tooling (Nmap and beyond) across DeepSeek, Qwen, and Mistral via Ollama. | Shell / Python |
-| **[SCAGS](https://github.com/Pushpenderrathore/SCAGS)** | AI-powered, DevOps-ready platform with scalable architecture, JWT auth, and full CI/CD pipeline. | Python |
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Unified Security Operations Framework</h3>
+      <p align="center"><sub>Modular SOC framework integrating multiple security capabilities into a unified operational pipeline.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Unified-Security-Operations-Framework?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Goblins</h3>
+      <p align="center"><sub>Autonomous AI-driven cybersecurity agent that analyzes lab results and publishes educational insights as a daemon — no human in the loop.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Goblins?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/Goblins?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Goblins?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Goblins?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/Goblins">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💣 Payload Framework</h3>
+      <p align="center"><sub>Custom offensive payload generation and management framework for red team operations.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/payload_framework?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/payload_framework?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/payload_framework?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/payload_framework?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/payload_framework">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐚 Shydun</h3>
+      <p align="center"><sub>SSH-based botnet networking primitive written in C for research and adversary emulation.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/shydun?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/shydun?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/shydun?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/shydun?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/shydun">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🦾 DI03766 — AI Terminal Assistant</h3>
+      <p align="center"><sub>Local AI-powered terminal assistant for macOS — natural language to tooling (Nmap and beyond) across DeepSeek, Qwen, and Mistral via Ollama.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/DI03766?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/DI03766?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/DI03766?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/DI03766?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/DI03766">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 SCAGS</h3>
+      <p align="center"><sub>AI-powered, DevOps-ready platform with scalable architecture, JWT auth, and full CI/CD pipeline.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/SCAGS?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/SCAGS?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/SCAGS?style=flat-square&color=8be9fd&labelColor=282a36" alt="Top Language"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/SCAGS?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated" alt="Last Commit"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pushpenderrathore/SCAGS">
+          <img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <!--   my-icons --> 
@@ -183,20 +241,30 @@ A curated selection of original work spanning offensive security tooling, autono
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushpenderrathore&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpenderrathore&theme=dracula&hide_border=true" alt="GitHub Streak" height="180"/>
+  <a href="https://github.com/Pushpenderrathore"><img src="https://img.shields.io/github/followers/Pushpenderrathore?style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github&logoColor=white&label=Followers" alt="Followers"/></a>
+  <a href="https://github.com/Pushpenderrathore?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPushpenderrathore&style=for-the-badge&color=8be9fd&labelColor=282a36&logo=github&logoColor=white" alt="Public Repos"/></a>
+  <a href="https://github.com/Pushpenderrathore"><img src="https://img.shields.io/github/stars/Pushpenderrathore?style=for-the-badge&color=f1fa8c&labelColor=282a36&logo=github&logoColor=white&label=Total%20Stars" alt="Total Stars"/></a>
+  <a href="https://github.com/Pushpenderrathore"><img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPushpenderrathore&style=for-the-badge&color=50fa7b&labelColor=282a36&logo=github&logoColor=white" alt="Following"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpenderrathore&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpenderrathore&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushpenderrathore&theme=dracula&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+<h3 align="center">🛠️ Languages I Work With</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 ---
