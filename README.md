@@ -215,6 +215,117 @@ Self-authored work spanning offensive security tooling, autonomous AI agents, pr
       <p align="center"><a href="https://github.com/Pushpenderrathore/smart-attendance-system"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Venice Firewall</h3>
+      <p align="center"><sub>AI-integrated firewall analyzing network traffic patterns and anomalies in real time — pairs offline / online AI with adaptive filtering and admin mail-messaging.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Venice-firewall?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/Venice-firewall?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Venice-firewall?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Venice-firewall?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/Venice-firewall"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚔️ Akaja</h3>
+      <p align="center"><sub>C-based malware research and network / IoT stress-testing tool. <b>Research use only — not intended for unlawful purposes.</b></sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/akaja?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/akaja?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/akaja?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/akaja?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/akaja"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Contractsd</h3>
+      <p align="center"><sub>Secure CLI contacts manager using AES-256-GCM for confidentiality, integrity, and authentication. Keys derived via PBKDF2-HMAC-SHA256 (150 000 iterations + per-entry salt).</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Contractsd?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/Contractsd?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Contractsd?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Contractsd?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/Contractsd"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧅 tor-browser</h3>
+      <p align="center"><sub>Automated download, install, and configuration of the Tor Browser — zero-touch onboarding for privacy-focused users.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/tor-browser?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/tor-browser?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/tor-browser?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/tor-browser?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/tor-browser"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌌 venice.ai</h3>
+      <p align="center"><sub>Uncensored AI assistant — currently in active development.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/venice.ai?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/venice.ai?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/venice.ai?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/venice.ai?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/venice.ai"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🪐 Antares</h3>
+      <p align="center"><sub>AI-driven operating system — currently in active development.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/Antares?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/Antares?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/Antares?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/Antares?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/Antares"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📶 BRCM Auto-Login</h3>
+      <p align="center"><sub>Shell-based automation for college campus Wi-Fi captive-portal logins — eliminates repetitive daily credential entry.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/brcm_automation_login?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/brcm_automation_login?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/brcm_automation_login?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/brcm_automation_login?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/brcm_automation_login"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💾 swap</h3>
+      <p align="center"><sub>Linux swap partition manager for expanding effective memory in AI development workloads.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/swap?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/swap?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/swap?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/swap?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/swap"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☠️ LUKS2-nuke</h3>
+      <p align="center"><sub>Auto-wipe LUKS2-protected Linux system after 5 failed decryption attempts — emergency anti-forensics defense for at-risk endpoints.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/LUKS2-nuke?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/Pushpenderrathore/LUKS2-nuke?style=flat-square&color=ff79c6&labelColor=282a36&label=Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/LUKS2-nuke?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/LUKS2-nuke?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/LUKS2-nuke"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ### 🔬 Research / Mirrors
@@ -276,6 +387,14 @@ Forks I actively study, extend, or maintain as references — for vulnerability 
       <p align="center"><a href="https://github.com/Pushpenderrathore/College_Voting_System-"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
     <td width="33%" valign="top">
+      <h4 align="center">🐍 theZoo</h4>
+      <p align="center"><sub>Public live-malware repository for analysis and research — fork maintained for IoC development and academic study.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/theZoo?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/theZoo?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/theZoo?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/theZoo"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
   </tr>
 </table>
