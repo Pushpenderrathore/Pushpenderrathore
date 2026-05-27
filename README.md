@@ -167,6 +167,14 @@ Self-authored work spanning offensive security tooling, autonomous AI agents, pr
       <p align="center"><a href="https://github.com/Pushpenderrathore/claude-code"><img src="https://img.shields.io/badge/View%20Repository-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
   </tr>
+</table>
+
+<details>
+  <summary><b>📂 Show 13 more original projects</b></summary>
+
+<br/>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🥷 macchanger_daeion</h3>
@@ -328,6 +336,8 @@ Self-authored work spanning offensive security tooling, autonomous AI agents, pr
   </tr>
 </table>
 
+</details>
+
 ### 🔬 Research / Mirrors
 
 Forks I actively study, extend, or maintain as references — for vulnerability research, AI-assisted security tooling experiments, and IoC development:
@@ -355,6 +365,26 @@ Forks I actively study, extend, or maintain as references — for vulnerability 
       <p align="center"><a href="https://github.com/Pushpenderrathore/Mirai-Source-Code"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
     <td width="33%" valign="top">
+      <h4 align="center">🐍 theZoo</h4>
+      <p align="center"><sub>Public live-malware repository for analysis and research — fork maintained for IoC development and academic study.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Pushpenderrathore/theZoo?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
+        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/theZoo?style=flat-square&color=8be9fd&labelColor=282a36"/>
+        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/theZoo?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
+      </p>
+      <p align="center"><a href="https://github.com/Pushpenderrathore/theZoo"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📂 Show 3 more research / mirror forks</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
       <h4 align="center">🔍 llm-tools-nmap</h4>
       <p align="center"><sub>LLM automation layer integrating offline and online AI with Nmap through user-friendly CLI commands.</sub></p>
       <p align="center">
@@ -364,8 +394,6 @@ Forks I actively study, extend, or maintain as references — for vulnerability 
       </p>
       <p align="center"><a href="https://github.com/Pushpenderrathore/llm-tools-nmap"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h4 align="center">🧩 AI Decision Simulator</h4>
       <p align="center"><sub>AI-powered decision-making simulation engine modeling outcomes and tradeoffs across varying inputs and constraints.</sub></p>
@@ -386,18 +414,10 @@ Forks I actively study, extend, or maintain as references — for vulnerability 
       </p>
       <p align="center"><a href="https://github.com/Pushpenderrathore/College_Voting_System-"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🐍 theZoo</h4>
-      <p align="center"><sub>Public live-malware repository for analysis and research — fork maintained for IoC development and academic study.</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Pushpenderrathore/theZoo?style=flat-square&color=bd93f9&labelColor=282a36&label=Stars"/>
-        <img src="https://img.shields.io/github/languages/top/Pushpenderrathore/theZoo?style=flat-square&color=8be9fd&labelColor=282a36"/>
-        <img src="https://img.shields.io/github/last-commit/Pushpenderrathore/theZoo?style=flat-square&color=50fa7b&labelColor=282a36&label=Updated"/>
-      </p>
-      <p align="center"><a href="https://github.com/Pushpenderrathore/theZoo"><img src="https://img.shields.io/badge/View-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36"/></a></p>
-    </td>
   </tr>
 </table>
+
+</details>
 
 
 <!--   my-icons --> 
