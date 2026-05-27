@@ -94,28 +94,28 @@ A curated selection of original work spanning offensive security tooling, autono
 
 <p align="center">
   <a href="https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=Unified-Security-Operations-Framework&theme=tokyonight&hide_border=true" alt="Unified Security Operations Framework"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=Unified-Security-Operations-Framework&theme=dracula&hide_border=true" alt="Unified Security Operations Framework"/>
   </a>
   <a href="https://github.com/Pushpenderrathore/Goblins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=Goblins&theme=tokyonight&hide_border=true" alt="Goblins"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=Goblins&theme=dracula&hide_border=true" alt="Goblins"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Pushpenderrathore/payload_framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=payload_framework&theme=tokyonight&hide_border=true" alt="Payload Framework"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=payload_framework&theme=dracula&hide_border=true" alt="Payload Framework"/>
   </a>
   <a href="https://github.com/Pushpenderrathore/shydun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=shydun&theme=tokyonight&hide_border=true" alt="Shydun"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=shydun&theme=dracula&hide_border=true" alt="Shydun"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Pushpenderrathore/DI03766">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=DI03766&theme=tokyonight&hide_border=true" alt="Local AI Terminal Assistant"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=DI03766&theme=dracula&hide_border=true" alt="Local AI Terminal Assistant"/>
   </a>
   <a href="https://github.com/Pushpenderrathore/SCAGS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=SCAGS&theme=tokyonight&hide_border=true" alt="SCAGS"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpenderrathore&repo=SCAGS&theme=dracula&hide_border=true" alt="SCAGS"/>
   </a>
 </p>
 
@@ -183,20 +183,20 @@ A curated selection of original work spanning offensive security tooling, autono
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushpenderrathore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpenderrathore&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushpenderrathore&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpenderrathore&theme=dracula&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpenderrathore&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpenderrathore&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pushpenderrathore&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushpenderrathore&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushpenderrathore&theme=dracula&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
