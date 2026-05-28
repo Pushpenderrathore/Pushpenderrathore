@@ -23,19 +23,11 @@ I sharpen my craft on <b>HackTheBox</b>, <b>TryHackMe</b>, <b>OverTheWire</b>, a
 
 ## 🏆 Google Summer of Code
 
-I have had the privilege of contributing to two of the most influential open-source projects in the cybersecurity ecosystem under the <b>Google Summer of Code</b> program:
+I have had the privilege of contributing to one of the most influential open-source projects in the cybersecurity ecosystem under the <b>Google Summer of Code</b> program:
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://summerofcode.withgoogle.com/" target="_blank">
-        <img src="https://img.shields.io/badge/GSoC%202024-Nmap-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSoC 2024 - Nmap"/>
-      </a>
-      <br><br>
-      <b>GSoC 2024 — Nmap Project</b><br>
-      <sub>Contributor under the Nmap Security Scanner organization. Worked on enhancing the world's leading network discovery and security auditing engine — improving scanning capabilities, NSE scripts, and protocol support relied upon by millions of practitioners globally.</sub>
-    </td>
-    <td align="center" width="50%">
+    <td align="center">
       <a href="https://summerofcode.withgoogle.com/" target="_blank">
         <img src="https://img.shields.io/badge/GSoC%202026-Metasploit-2596CB?style=for-the-badge&logo=metasploit&logoColor=white" alt="GSoC 2026 - Metasploit"/>
       </a>
