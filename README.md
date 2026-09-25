@@ -1,4 +1,4 @@
-![A great user can run a masterpiece, but a masterpiece can build the exploit itself](./banner.svg)
+![A Great exploit user can run an masterpiece, but a masterpiece can build the exploit itself](./banner.svg)
 
 <p align="center">
   <a href="https://pushpenderrathore.github.io/">Portfolio</a> ·
@@ -25,9 +25,10 @@ report, and then the part most people skip, reproduce and verify before it ships
 Right now that work lives inside the Metasploit Framework, where I was selected for
 Google Summer of Code 2026.
 
-I work from one belief, and it is the line in the banner above: a great user can run a
-masterpiece, but a masterpiece can build the exploit itself. Running someone else's tool
-is a skill. Building the tool that writes the next exploit is the craft I am after.
+I work from one belief, and it is the line in the banner above: "A Great exploit user can
+run an masterpiece, but a masterpiece can build the exploit itself!" Running someone
+else's tool is a skill. Building the tool that writes the next exploit is the craft I am
+after.
 
 ### What I care about
 
