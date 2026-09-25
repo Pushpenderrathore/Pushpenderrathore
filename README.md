@@ -1,4 +1,4 @@
-![A Great exploit user can run an masterpiece, but a masterpiece can build the exploit itself](./banner.svg)
+![A Great exploit user can run an masterpiece, but a masterpiece can build the exploit itself](./banner.svg?v=2)
 
 <p align="center">
   <a href="https://pushpenderrathore.github.io/">Portfolio</a> ·
