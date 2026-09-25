@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Pushpender Singh Rathore, Offensive Security Engineer">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3a4553"/>
+    </marker>
+    <marker id="arrowteal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2dd4bf"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1280" height="360" fill="#0b0f14"/>
+
+  <text x="66" y="70" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,monospace" font-size="14" letter-spacing="3" fill="#00D4FF">OFFENSIVE SECURITY   ·   EXPLOIT DEVELOPMENT   ·   METASPLOIT</text>
+
+  <text x="62" y="140" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#E6EDF3">Pushpender Singh Rathore</text>
+
+  <text x="66" y="182" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="20" fill="#8B97A6">I build offensive tooling and framework code that operators run in the field.</text>
+
+  <!-- the loop -->
+  <g font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,monospace" font-size="15" fill="#9FEF00" text-anchor="middle">
+    <rect x="66"  y="238" width="150" height="44" rx="22" fill="#10151c" stroke="#2a3441"/>
+    <text x="141" y="266">RECON</text>
+    <rect x="252" y="238" width="150" height="44" rx="22" fill="#10151c" stroke="#2a3441"/>
+    <text x="327" y="266">DEVELOP</text>
+    <rect x="438" y="238" width="150" height="44" rx="22" fill="#10151c" stroke="#2a3441"/>
+    <text x="513" y="266">EXPLOIT</text>
+    <rect x="624" y="238" width="150" height="44" rx="22" fill="#10151c" stroke="#2a3441"/>
+    <text x="699" y="266">REPORT</text>
+  </g>
+
+  <g stroke="#3a4553" stroke-width="2">
+    <line x1="218" y1="260" x2="250" y2="260" marker-end="url(#arrow)"/>
+    <line x1="404" y1="260" x2="436" y2="260" marker-end="url(#arrow)"/>
+    <line x1="590" y1="260" x2="622" y2="260" marker-end="url(#arrow)"/>
+  </g>
+
+  <path d="M699,284 C699,352 141,352 141,288" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-dasharray="5 5" marker-end="url(#arrowteal)"/>
+  <rect x="252" y="316" width="336" height="20" fill="#0b0f14"/>
+  <text x="420" y="330" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,monospace" font-size="13" letter-spacing="2" fill="#2dd4bf" text-anchor="middle">REPRODUCE, VERIFY, SHIP UPSTREAM</text>
+</svg>

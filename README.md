@@ -1,86 +1,107 @@
-<h1 align="center">Pushpender Singh Rathore</h1>
+![Pushpender Singh Rathore](./banner.svg)
 
 <p align="center">
-  Offensive Security Engineer and Open-Source Contributor<br/>
-  Exploit development, Active Directory tradecraft, and Metasploit Framework internals
-</p>
-
-<p align="center">
-  <a href="https://pushpenderrathore.github.io/"><img src="https://img.shields.io/badge/Portfolio-9FEF00?style=for-the-badge&logo=firefoxbrowser&logoColor=0b0f14&labelColor=0b0f14"/></a>
-  <a href="https://pushpenderrathore.github.io/gsoc.html"><img src="https://img.shields.io/badge/GSoC%202026-Metasploit-00D4FF?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0b0f14"/></a>
-  <a href="https://www.linkedin.com/in/pushpender-singh-rathore-72466a260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f14"/></a>
-  <a href="mailto:bluedevil5177@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f14"/></a>
+  <a href="https://pushpenderrathore.github.io/">Portfolio</a> ·
+  <a href="https://pushpenderrathore.github.io/gsoc.html">GSoC 2026</a> ·
+  <a href="https://www.linkedin.com/in/pushpender-singh-rathore-72466a260/">LinkedIn</a> ·
+  <a href="mailto:bluedevil5177@gmail.com">Email</a> ·
+  <a href="https://pushpenderrathore.github.io/prs.html">Open-source PRs</a>
 </p>
 
 ---
 
-### About
+Hi. My name is Pushpender Singh Rathore, and I am an offensive security engineer and
+open-source contributor. I build the tooling and framework code that red teams and
+researchers actually run, and I ship it in public where anyone can read it, break it,
+and use it.
 
-Security researcher and open-source contributor working where binary internals meet
-practical red-team workflows. I build offensive tooling and framework code that operators
-run in the field, with a focus on reverse engineering, exploit primitives, and Active
-Directory attack paths. I contribute upstream and document what I learn.
+I care about one thing above the rest: making offensive security legible. A proof of
+concept that no one else can reproduce, read, or trust is a liability, not a result. So I
+spend most of my time on the parts that rarely get attention: the traces, the presenters,
+the specs, and the clean module code that turn a fragile one-off into something an
+operator can depend on. That is the loop in the banner above. Recon, develop, exploit,
+report, and then the part most people skip, reproduce and verify before it ships.
 
-Selected for Google Summer of Code 2026 with the Metasploit Framework (Rapid7), building
-the `KerberosTicketTracePresenter` and `CertificateTracePresenter` subsystems to bring
-inline Kerberos and X.509 tracing to `msfconsole`.
+Right now that work lives inside the Metasploit Framework, where I was selected for
+Google Summer of Code 2026.
 
-### Focus
+### What I care about
 
-- Exploit development and offensive tooling
-- Active Directory attack paths: Kerberos, AD CS, and NTLM relaying
-- Protocol internals: SMB, LDAP, RDP, and TLS
-- Vulnerability research and detection engineering
-- Reverse engineering and low-level systems
+- **Reliable offensive tooling.** An exploit is only as good as the number of times it
+  works on a machine that is not mine. I optimize for reproducibility, clear output, and
+  code that the next person can maintain.
+- **Reading systems until they break.** I did a long stretch of reverse engineering and
+  protocol work, and I cannot stop. Once you have watched enough parsers and auth flows
+  fail, you build everything differently.
+- **Contributing upstream, in the open.** I would rather land one reviewed change in a
+  tool thousands of people use than keep a hundred private scripts. Working in public is
+  also the best way I know to find people who care about the same problems.
 
-### Tech Stack
+### What I have built
 
-**Languages**
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black&labelColor=0b0f14)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0b0f14)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0b0f14)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white&labelColor=0b0f14)
-![Assembly](https://img.shields.io/badge/x86%2Fx64%20ASM-654FF0?style=flat-square&logo=assemblyscript&logoColor=white&labelColor=0b0f14)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0b0f14)
+Everything below is that same idea, pointed at a different target.
 
-**Security & Systems**
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CB?style=flat-square&logo=metasploit&logoColor=white&labelColor=0b0f14)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF4500?style=flat-square&logoColor=white&labelColor=0b0f14)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0b0f14)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0b0f14)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0b0f14)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0b0f14)
+**[Metasploit Framework](https://github.com/rapid7/metasploit-framework), Rapid7**
+Google Summer of Code 2026. I am building the certificate and Kerberos tracing
+subsystems, `CertificateTracePresenter` and `KerberosTicketTracePresenter`, to bring
+inline X.509 and Kerberos visibility into `msfconsole`, along with merged modules and
+core-library changes.
 
-Daily toolchain: Ghidra, GDB, Binary Ninja, Wireshark, Nmap, Burp Suite, and Metasploit.
+**[Unified Security Operations Framework](https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework)**
+A modular SOC pipeline that ties multiple security capabilities into one operational
+workflow, so detection, analysis, and response live in one place instead of a drawer of
+disconnected scripts.
 
-### Selected Work
+**[payload_framework](https://github.com/Pushpenderrathore/payload_framework)**
+An offensive payload generation and management framework for red-team operations, built
+around repeatability rather than one-off generation.
 
-| Project | Description |
-| --- | --- |
-| **[Unified Security Operations Framework](https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework)** | Modular SOC pipeline tying multiple security capabilities into one operational workflow. |
-| **[Goblins](https://github.com/Pushpenderrathore/Goblins)** | Autonomous security agent that analyzes lab results and publishes insights as a daemon. |
-| **[payload_framework](https://github.com/Pushpenderrathore/payload_framework)** | Offensive payload generation and management framework for red-team operations. |
-| **[Contractsd](https://github.com/Pushpenderrathore/Contractsd)** | AES-256-GCM CLI contacts vault; keys derived via PBKDF2-HMAC-SHA256 (150k iterations, per-entry salt). |
+**[Goblins](https://github.com/Pushpenderrathore/Goblins)**
+An autonomous security agent that analyzes lab results and publishes its findings as a
+running daemon, so the analysis loop keeps going without me.
 
-<sub>More on my <a href="https://pushpenderrathore.github.io/#project">portfolio</a> and <a href="https://pushpenderrathore.github.io/prs.html">open-source pull requests</a>.</sub>
+**[Contractsd](https://github.com/Pushpenderrathore/Contractsd)**
+An AES-256-GCM command-line contacts vault, with keys derived through PBKDF2-HMAC-SHA256
+at 150k iterations and a per-entry salt. A small tool, taken seriously.
 
 <details>
-  <summary><b>More projects</b></summary>
+  <summary><b>More projects (earlier and experimental work)</b></summary>
 
 <br/>
 
-| Project | Description |
-| --- | --- |
-| **[shydun](https://github.com/Pushpenderrathore/shydun)** | SSH-based networking primitive in C for security research and adversary emulation. |
-| **[macchanger_daeion](https://github.com/Pushpenderrathore/macchanger_daeion)** | systemd service that rotates MAC addresses with a privacy kill-switch (Arch, Debian, Fedora). |
-| **[Venice-firewall](https://github.com/Pushpenderrathore/Venice-firewall)** | Firewall with real-time traffic anomaly analysis and adaptive filtering. |
-| **[LUKS2-nuke](https://github.com/Pushpenderrathore/LUKS2-nuke)** | Anti-forensics wipe of a LUKS2 system after repeated failed decryption attempts. |
+**[shydun](https://github.com/Pushpenderrathore/shydun)**
+An SSH-based networking primitive in C, written for security research and adversary
+emulation.
+
+**[macchanger_daeion](https://github.com/Pushpenderrathore/macchanger_daeion)**
+A systemd service that rotates MAC addresses on a schedule with a privacy kill-switch,
+packaged for Arch, Debian, and Fedora.
+
+**[Venice-firewall](https://github.com/Pushpenderrathore/Venice-firewall)**
+A firewall that does real-time traffic anomaly analysis with adaptive filtering.
+
+**[LUKS2-nuke](https://github.com/Pushpenderrathore/LUKS2-nuke)**
+An anti-forensics wipe of a LUKS2 system after repeated failed decryption attempts.
 
 </details>
 
-### Practice
+### How I work
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=0b0f14&labelColor=0b0f14)](https://app.hackthebox.com/public/users/724136)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0b0f14)](https://tryhackme.com/p/enp7s0d)
-[![WeChall](https://img.shields.io/badge/WeChall-0064ff?style=flat-square&logoColor=white&labelColor=0b0f14)](https://www.wechall.net/profile/rootanonymous)
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-1b1b1b?style=flat-square&logo=gnu&logoColor=white&labelColor=0b0f14)](https://overthewire.org/wargames/)
+Languages I reach for: C, C++, Python, and Ruby, with x86 and x64 assembly when I need to
+see what the machine is really doing. Daily toolchain: Ghidra, GDB, Binary Ninja,
+Wireshark, Nmap, Burp Suite, and Metasploit. Tests in RSpec, because a module without a
+spec is a claim without a proof.
+
+### Where I practice
+
+[HackTheBox](https://app.hackthebox.com/public/users/724136) ·
+[TryHackMe](https://tryhackme.com/p/enp7s0d) ·
+[WeChall](https://www.wechall.net/profile/rootanonymous) ·
+[OverTheWire](https://overthewire.org/wargames/)
+
+### Connect
+
+[Portfolio](https://pushpenderrathore.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/pushpender-singh-rathore-72466a260/) ·
+[Email](mailto:bluedevil5177@gmail.com) ·
+[All repositories](https://github.com/Pushpenderrathore?tab=repositories)
