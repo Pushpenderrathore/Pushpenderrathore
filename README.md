@@ -13,21 +13,21 @@
 
 ### whoami
 
-B.Tech CSE student and **open-source security contributor** focused on offensive
-security tooling and low-level systems. I work where binary internals meet practical
-red-team workflows — reverse engineering, exploit primitives, and the framework code
-that operators actually run. I learn in public and ship code upstream.
+Security researcher and open-source contributor working where binary internals meet
+practical red-team workflows. I build offensive tooling and framework code that
+operators actually run, with a focus on reverse engineering, exploit primitives, and
+Active Directory tradecraft. I contribute upstream and learn in public.
 
-- 🛰️ **Now:** GSoC 2026 with **Metasploit (Rapid7)** — building `KerberosTicketTracePresenter`
-  and `CertificateTracePresenter` to bring inline Kerberos/X.509 tracing to `msfconsole`.
-- 🔭 **Focus:** reverse engineering · exploit development · AD/Kerberos & ADCS · security automation
-- 🧰 **Daily drivers:** Ghidra · GDB · Binary Ninja · Wireshark · Nmap · Burp Suite · Metasploit
-- 🌱 **Leveling up:** Ruby (Metasploit modules), Active Directory tradecraft, RSpec
-- 📫 **Reach me:** [portfolio](https://pushpenderrathore.github.io/) · [email](mailto:bluedevil5177@gmail.com)
+- **Now:** GSoC 2026 with Metasploit (Rapid7), building `KerberosTicketTracePresenter`
+  and `CertificateTracePresenter` to bring inline Kerberos and X.509 tracing to `msfconsole`.
+- **Focus:** reverse engineering, exploit development, AD/Kerberos and AD CS, security automation.
+- **Daily drivers:** Ghidra, GDB, Binary Ninja, Wireshark, Nmap, Burp Suite, Metasploit.
+- **Leveling up:** Ruby for Metasploit modules, Active Directory tradecraft, RSpec.
+- **Reach me:** [portfolio](https://pushpenderrathore.github.io/) and [email](mailto:bluedevil5177@gmail.com).
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black&labelColor=0b0f14)
@@ -47,28 +47,28 @@ that operators actually run. I learn in public and ship code upstream.
 
 ---
 
-### 🚀 Selected Work
+### Selected Work
 
 | Project | What it does |
 | --- | --- |
 | **[Unified Security Operations Framework](https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework)** | Modular SOC pipeline tying multiple security capabilities into one operational workflow. |
 | **[Goblins](https://github.com/Pushpenderrathore/Goblins)** | Autonomous AI security agent that analyzes lab results and publishes insights as a daemon. |
-| **[payload_framework](https://github.com/Pushpenderrathore/payload_framework)** | Offensive payload generation/management framework for red-team ops. |
-| **[Contractsd](https://github.com/Pushpenderrathore/Contractsd)** | AES-256-GCM CLI contacts vault; keys via PBKDF2-HMAC-SHA256 (150k iters + per-entry salt). |
+| **[payload_framework](https://github.com/Pushpenderrathore/payload_framework)** | Offensive payload generation and management framework for red-team operations. |
+| **[Contractsd](https://github.com/Pushpenderrathore/Contractsd)** | AES-256-GCM CLI contacts vault; keys via PBKDF2-HMAC-SHA256 (150k iterations plus per-entry salt). |
 
 <sub>More on my <a href="https://pushpenderrathore.github.io/#project">portfolio</a> and <a href="https://pushpenderrathore.github.io/prs.html">open-source PRs</a>.</sub>
 
 <details>
-  <summary><b>📂 More projects</b></summary>
+  <summary><b>More projects</b></summary>
 
 <br/>
 
 | Project | What it does |
 | --- | --- |
 | **[shydun](https://github.com/Pushpenderrathore/shydun)** | SSH-based botnet networking primitive in C for research and adversary emulation. |
-| **[DI03766](https://github.com/Pushpenderrathore/DI03766)** | Local AI terminal assistant for macOS — natural language to tooling via Ollama (DeepSeek/Qwen/Mistral). |
+| **[DI03766](https://github.com/Pushpenderrathore/DI03766)** | Local AI terminal assistant for macOS: natural language to tooling via Ollama (DeepSeek, Qwen, Mistral). |
 | **[claude-code](https://github.com/Pushpenderrathore/claude-code)** | Anthropic-compatible proxy routing Claude Code traffic to free or local model providers. |
-| **[macchanger_daeion](https://github.com/Pushpenderrathore/macchanger_daeion)** | systemd service that rotates MAC addresses with a privacy kill-switch (Arch/Debian/Fedora). |
+| **[macchanger_daeion](https://github.com/Pushpenderrathore/macchanger_daeion)** | systemd service that rotates MAC addresses with a privacy kill-switch (Arch, Debian, Fedora). |
 | **[Venice-firewall](https://github.com/Pushpenderrathore/Venice-firewall)** | AI-integrated firewall doing real-time traffic anomaly analysis with adaptive filtering. |
 | **[LUKS2-nuke](https://github.com/Pushpenderrathore/LUKS2-nuke)** | Anti-forensics wipe of a LUKS2 system after repeated failed decryption attempts. |
 
@@ -76,9 +76,9 @@ that operators actually run. I learn in public and ship code upstream.
 
 ---
 
-### 🎯 Certifications — On the Roadmap
+### Certifications on the Roadmap
 
-Actively studying toward these; I'll add verification links as I earn them.
+Actively studying toward these. Verification links will be added as they are earned.
 
 ![OSCP](https://img.shields.io/badge/OSCP-in%20progress-9FEF00?style=flat-square&logo=offsec&logoColor=0b0f14&labelColor=0b0f14)
 ![CEH](https://img.shields.io/badge/CEH-targeting-00D4FF?style=flat-square&logoColor=white&labelColor=0b0f14)
@@ -86,7 +86,7 @@ Actively studying toward these; I'll add verification links as I earn them.
 
 ---
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pushpenderrathore&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=9FEF00&icon_color=00D4FF&text_color=E6EDF3&ring_color=9FEF00"/>
@@ -99,12 +99,9 @@ Actively studying toward these; I'll add verification links as I earn them.
 
 ---
 
-### 🧩 Where I Practice
+### Where I Practice
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=0b0f14&labelColor=0b0f14)](https://app.hackthebox.com/public/users/724136)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0b0f14)](https://tryhackme.com/p/enp7s0d)
 [![WeChall](https://img.shields.io/badge/WeChall-0064ff?style=flat-square&logoColor=white&labelColor=0b0f14)](https://www.wechall.net/profile/rootanonymous)
 [![OverTheWire](https://img.shields.io/badge/OverTheWire-1b1b1b?style=flat-square&logo=gnu&logoColor=white&labelColor=0b0f14)](https://overthewire.org/wargames/)
-
-<sub>Profile visitors since July 7, 2025</sub><br/>
-<img src="https://count.getloli.com/get/@Pushpenderrathore.github.readme" alt="visitor count" />
