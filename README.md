@@ -1,5 +1,3 @@
-![A Great exploit user can run an masterpiece, but a masterpiece can build the exploit itself](./banner.svg?v=2)
-
 <p align="center">
   <a href="https://pushpenderrathore.github.io/">Portfolio</a> ·
   <a href="https://pushpenderrathore.github.io/gsoc.html">GSoC 2026</a> ·
@@ -27,16 +25,15 @@ I care about one thing above the rest: making offensive security legible. A proo
 concept that no one else can reproduce, read, or trust is a liability, not a result. So I
 spend most of my time on the parts that rarely get attention: the traces, the presenters,
 the specs, and the clean module code that turn a fragile one-off into something an
-operator can depend on. That is the loop in the banner above. Recon, develop, exploit,
-report, and then the part most people skip, reproduce and verify before it ships.
+operator can depend on. Recon, develop, exploit, report, and then the part most people
+skip, reproduce and verify before it ships.
 
 Right now that work lives inside the Metasploit Framework, where I was selected for
 Google Summer of Code 2026.
 
-I work from one belief, and it is the line in the banner above: "A Great exploit user can
-run an masterpiece, but a masterpiece can build the exploit itself!" Running someone
-else's tool is a skill. Building the tool that writes the next exploit is the craft I am
-after.
+I work from one belief: *"A great exploit user can run a masterpiece, but a masterpiece
+can build the exploit itself."* Running someone else's tool is a skill. Building the tool
+that writes the next exploit is the craft I am after.
 
 ### What I care about
 
