@@ -95,43 +95,23 @@ Full build log, lab proof, and timeline live at
 
 ### Other work
 
-**[Unified Security Operations Framework](https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework)**
-A modular SOC pipeline that ties multiple security capabilities into one operational
-workflow, so detection, analysis, and response live in one place instead of a drawer of
-disconnected scripts.
+Upstream projects I track and contribute to.
 
-**[payload_framework](https://github.com/Pushpenderrathore/payload_framework)**
-An offensive payload generation and management framework for red-team operations, built
-around repeatability rather than one-off generation.
+**[rapid7/metasploit-framework](https://github.com/Pushpenderrathore/metasploit-framework)**
+The leading open-source penetration-testing platform. Twelve of my PRs merged
+during and after GSoC 2026, listed in the table above.
 
-**[Goblins](https://github.com/Pushpenderrathore/Goblins)**
-An autonomous security agent that analyzes lab results and publishes its findings as a
-running daemon, so the analysis loop keeps going without me.
+**[rapid7/ruby_smb](https://github.com/Pushpenderrathore/ruby_smb)**
+Pure-Ruby SMB1/2/3 client-and-server library that Metasploit relies on. Author of
+`#303` (Kerberos GSS provider) plus four open parser- and SPNEGO-hardening PRs.
 
-**[Contractsd](https://github.com/Pushpenderrathore/Contractsd)**
-An AES-256-GCM command-line contacts vault, with keys derived through PBKDF2-HMAC-SHA256
-at 150k iterations and a per-entry salt. A small tool, taken seriously.
+**[BlackArch/blackarch](https://github.com/Pushpenderrathore/blackarch)**
+Arch-based penetration-testing distribution with 2800+ tools. Daily driver for lab
+work and the environment I validate my modules against.
 
-<details>
-  <summary><b>More projects (earlier and experimental work)</b></summary>
-
-<br/>
-
-**[shydun](https://github.com/Pushpenderrathore/shydun)**
-An SSH-based networking primitive in C, written for security research and adversary
-emulation.
-
-**[macchanger_daeion](https://github.com/Pushpenderrathore/macchanger_daeion)**
-A systemd service that rotates MAC addresses on a schedule with a privacy kill-switch,
-packaged for Arch, Debian, and Fedora.
-
-**[Venice-firewall](https://github.com/Pushpenderrathore/Venice-firewall)**
-A firewall that does real-time traffic anomaly analysis with adaptive filtering.
-
-**[LUKS2-nuke](https://github.com/Pushpenderrathore/LUKS2-nuke)**
-An anti-forensics wipe of a LUKS2 system after repeated failed decryption attempts.
-
-</details>
+**[jgamblin/Mirai-Source-Code](https://github.com/Pushpenderrathore/Mirai-Source-Code)**
+Leaked Mirai botnet source, kept for reading. The scanner, loader, and CNC code
+are a short course in how real-world worm networks were actually built.
 
 ### How I work
 
