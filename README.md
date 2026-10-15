@@ -4,8 +4,16 @@
   <a href="https://pushpenderrathore.github.io/">Portfolio</a> ·
   <a href="https://pushpenderrathore.github.io/gsoc.html">GSoC 2026</a> ·
   <a href="https://www.linkedin.com/in/pushpender-singh-rathore-72466a260/">LinkedIn</a> ·
-  <a href="mailto:bluedevil5177@gmail.com">Email</a> ·
+  <a href="mailto:enp7s0d@gmail.com">Email</a> ·
   <a href="https://pushpenderrathore.github.io/prs.html">Open-source PRs</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSoC%202026-Metasploit%20%C2%B7%20Rapid7-9FEF00?style=for-the-badge&logo=google&logoColor=0b0f14&labelColor=0b0f14"/>
+  <img src="https://img.shields.io/badge/MSF%20PRs%20merged-12-9FEF00?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0b0f14"/>
+  <img src="https://img.shields.io/badge/ruby__smb%20merged-1-9FEF00?style=for-the-badge&logo=ruby&logoColor=white&labelColor=0b0f14"/>
+  <img src="https://img.shields.io/badge/Rapid7%20blog%20features-8-00D4FF?style=for-the-badge&logoColor=white&labelColor=0b0f14"/>
+  <img src="https://img.shields.io/badge/CVE-2026--20929-FF4D4F?style=for-the-badge&logoColor=white&labelColor=0b0f14"/>
 </p>
 
 ---
@@ -42,15 +50,53 @@ after.
   tool thousands of people use than keep a hundred private scripts. Working in public is
   also the best way I know to find people who care about the same problems.
 
-### What I have built
+### Metasploit Framework · GSoC 2026 · Rapid7
 
-Everything below is that same idea, pointed at a different target.
+Mentored by [@jheysel-r7](https://github.com/jheysel-r7) and
+[@zeroSteiner](https://github.com/zeroSteiner). I passed the final evaluation; the work
+below shipped to [`rapid7/metasploit-framework`](https://github.com/rapid7/metasploit-framework)
+and [`rapid7/ruby_smb`](https://github.com/rapid7/ruby_smb) during and after the program.
 
-**[Metasploit Framework](https://github.com/rapid7/metasploit-framework), Rapid7**
-Google Summer of Code 2026. I am building the certificate and Kerberos tracing
-subsystems, `CertificateTracePresenter` and `KerberosTicketTracePresenter`, to bring
-inline X.509 and Kerberos visibility into `msfconsole`, along with merged modules and
-core-library changes.
+Two things landed. The first is the full `CertificateTracePresenter` inline-tracing
+stack, which brings X.509 visibility into `msfconsole` across 10+ ADCS modules and four
+TLS protocols. The second is the first native Kerberos authentication relay framework in
+Metasploit (CVE-2026-20929), including the ESC8 AD CS Web Enrollment relay target and
+the native IPv6 RA + RDNSS DNS-takeover coercion that drives it. The companion
+`ruby_smb` GSS provider change that unblocked the stack upstream merged too.
+
+<table>
+<tr><th>PR</th><th>What landed</th><th>Status</th></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21198">#21198</a></td><td><b>CertificateTracePresenter</b> + shared <code>CertificateTrace</code> mixin, wired into 10+ ADCS modules</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21469">#21469</a></td><td>LDAP Schannel certificate tracing</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21580">#21580</a></td><td>CSR tracing for AD CS enrollment (<code>to_s_csr_*</code>)</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21599">#21599</a></td><td>HTTP TLS peer-cert tracing (Phase 1)</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21607">#21607</a></td><td>LDAP + RDP TLS peer-cert tracing (Phase 2)</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21608">#21608</a></td><td>Postgres TLS + full cert-chain tracing (Phase 3)</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21709">#21709</a></td><td><b>Native Kerberos relay stack + ESC8 AD CS target</b> (CVE-2026-20929)</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21725">#21725</a></td><td>Rogue IPv6 RA + RDNSS DNS-takeover coercion</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21719">#21719</a></td><td>Module metadata-cache race fix</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21784">#21784</a></td><td>DNS forward/cache crash fix</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21853">#21853</a></td><td>Relay-driven DNS poisoning hardening</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21906">#21906</a></td><td>WebEnrollment cert-download crash fix</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/ruby_smb/pull/303">ruby_smb #303</a></td><td>Kerberos GSS provider (server offers Kerberos alongside NTLM)</td><td>Merged</td></tr>
+</table>
+
+Open follow-ups in review (post-program):
+MSF [#21908](https://github.com/rapid7/metasploit-framework/pull/21908),
+[#21920](https://github.com/rapid7/metasploit-framework/pull/21920),
+[#21931](https://github.com/rapid7/metasploit-framework/pull/21931),
+[#21934](https://github.com/rapid7/metasploit-framework/pull/21934),
+[#21944](https://github.com/rapid7/metasploit-framework/pull/21944) ·
+ruby_smb [#306](https://github.com/rapid7/ruby_smb/pull/306),
+[#307](https://github.com/rapid7/ruby_smb/pull/307),
+[#309](https://github.com/rapid7/ruby_smb/pull/309),
+[#310](https://github.com/rapid7/ruby_smb/pull/310).
+
+Credited across **8 Rapid7 Metasploit wrap-up posts** between June and October 2026.
+Full build log, lab proof, and timeline live at
+[pushpenderrathore.github.io/gsoc.html](https://pushpenderrathore.github.io/gsoc.html).
+
+### Other work
 
 **[Unified Security Operations Framework](https://github.com/Pushpenderrathore/Unified-Security-Operations-Framework)**
 A modular SOC pipeline that ties multiple security capabilities into one operational
@@ -108,5 +154,5 @@ spec is a claim without a proof.
 
 [Portfolio](https://pushpenderrathore.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/pushpender-singh-rathore-72466a260/) ·
-[Email](mailto:bluedevil5177@gmail.com) ·
+[Email](mailto:enp7s0d@gmail.com) ·
 [All repositories](https://github.com/Pushpenderrathore?tab=repositories)
