@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GSoC%202026-Metasploit%20%C2%B7%20Rapid7-9FEF00?style=for-the-badge&logo=google&logoColor=0b0f14&labelColor=0b0f14"/>
-  <img src="https://img.shields.io/badge/MSF%20PRs%20merged-12-9FEF00?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0b0f14"/>
+  <img src="https://img.shields.io/badge/MSF%20PRs%20merged-13-9FEF00?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0b0f14"/>
   <img src="https://img.shields.io/badge/ruby__smb%20merged-1-9FEF00?style=for-the-badge&logo=ruby&logoColor=white&labelColor=0b0f14"/>
   <img src="https://img.shields.io/badge/Rapid7%20blog%20features-8-00D4FF?style=for-the-badge&logoColor=white&labelColor=0b0f14"/>
   <img src="https://img.shields.io/badge/CVE-2026--20929-FF4D4F?style=for-the-badge&logoColor=white&labelColor=0b0f14"/>
@@ -75,13 +75,13 @@ the native IPv6 RA + RDNSS DNS-takeover coercion that drives it. The companion
 <tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21784">#21784</a></td><td>DNS forward/cache crash fix</td><td>Merged</td></tr>
 <tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21853">#21853</a></td><td>Relay-driven DNS poisoning hardening</td><td>Merged</td></tr>
 <tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21906">#21906</a></td><td>WebEnrollment cert-download crash fix</td><td>Merged</td></tr>
+<tr><td><a href="https://github.com/rapid7/metasploit-framework/pull/21931">#21931</a></td><td>Linear-time malleable C2 profile string lexer</td><td>Merged</td></tr>
 <tr><td><a href="https://github.com/rapid7/ruby_smb/pull/303">ruby_smb #303</a></td><td>Kerberos GSS provider (server offers Kerberos alongside NTLM)</td><td>Merged</td></tr>
 </table>
 
 Open follow-ups in review (post-program):
 MSF [#21908](https://github.com/rapid7/metasploit-framework/pull/21908),
 [#21920](https://github.com/rapid7/metasploit-framework/pull/21920),
-[#21931](https://github.com/rapid7/metasploit-framework/pull/21931),
 [#21934](https://github.com/rapid7/metasploit-framework/pull/21934),
 [#21944](https://github.com/rapid7/metasploit-framework/pull/21944) ·
 ruby_smb [#306](https://github.com/rapid7/ruby_smb/pull/306),
@@ -98,7 +98,7 @@ Full build log, lab proof, and timeline live at
 Upstream projects I track and contribute to.
 
 **[rapid7/metasploit-framework](https://github.com/Pushpenderrathore/metasploit-framework)**
-The leading open-source penetration-testing platform. Twelve of my PRs merged
+The leading open-source penetration-testing platform. Thirteen of my PRs merged
 during and after GSoC 2026, listed in the table above.
 
 **[rapid7/ruby_smb](https://github.com/Pushpenderrathore/ruby_smb)**
